@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "710922322112",
+    "project_id": "firebasics-fe824",
+    "storage_bucket": "firebasics-fe824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710922322112:android:337a5d0342fb544dbbed25",
+        "android_client_info": {
+          "package_name": "com.example.firebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xa-jJ0rz3JzJMRDmvldRY-aeZ2Y4FXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710922322112:android:438f428f01b23fd0bbed25",
+        "android_client_info": {
+          "package_name": "com.example.studentstudyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xa-jJ0rz3JzJMRDmvldRY-aeZ2Y4FXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710922322112:android:647cb2876cf140c4bbed25",
+        "android_client_info": {
+          "package_name": "com.fake.graphed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xa-jJ0rz3JzJMRDmvldRY-aeZ2Y4FXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
